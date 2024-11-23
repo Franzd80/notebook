@@ -1,0 +1,2 @@
+# comando per avvio di fastapi
+	uvicorn app:app --reload
